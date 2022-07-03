@@ -1,0 +1,15 @@
+C:\git\seminar0207\less21\bin\Debug\net6.0\less21.exe
+C:\git\seminar0207\less21\bin\Debug\net6.0\less21.deps.json
+C:\git\seminar0207\less21\bin\Debug\net6.0\less21.runtimeconfig.json
+C:\git\seminar0207\less21\bin\Debug\net6.0\less21.dll
+C:\git\seminar0207\less21\bin\Debug\net6.0\less21.pdb
+C:\git\seminar0207\less21\obj\Debug\net6.0\less21.csproj.AssemblyReference.cache
+C:\git\seminar0207\less21\obj\Debug\net6.0\less21.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\seminar0207\less21\obj\Debug\net6.0\less21.AssemblyInfoInputs.cache
+C:\git\seminar0207\less21\obj\Debug\net6.0\less21.AssemblyInfo.cs
+C:\git\seminar0207\less21\obj\Debug\net6.0\less21.csproj.CoreCompileInputs.cache
+C:\git\seminar0207\less21\obj\Debug\net6.0\less21.dll
+C:\git\seminar0207\less21\obj\Debug\net6.0\refint\less21.dll
+C:\git\seminar0207\less21\obj\Debug\net6.0\less21.pdb
+C:\git\seminar0207\less21\obj\Debug\net6.0\less21.genruntimeconfig.cache
+C:\git\seminar0207\less21\obj\Debug\net6.0\ref\less21.dll
